@@ -1,1 +1,2 @@
-This is the school file in bash directory.
+#!/bin/bash
+echo "School"
