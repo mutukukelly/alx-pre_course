@@ -1,1 +1,5 @@
-echo "The school is open!"
+update_script
+echo "School"
+#!/bin/bash
+echo "School"
+master
